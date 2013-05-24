@@ -113,7 +113,7 @@
 		};
 	};
 
-	var onErrorGeo = function () {-
+	var onErrorGeo = function () {
 		alert("Error! GEOLOCATION!")	
 	};
 
